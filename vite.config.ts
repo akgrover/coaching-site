@@ -3,6 +3,7 @@ import react from "@vitejs/plugin-react";
 import { defineConfig } from "vite";
 
 export default defineConfig({
+  base: "/coaching-site/",
   plugins: [react()],
   resolve: {
     alias: {
