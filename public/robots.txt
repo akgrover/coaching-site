@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://akgrover.github.io/coaching-site/sitemap.xml
